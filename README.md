@@ -16,7 +16,7 @@ To increment or decrement, you can just call the animator trigger `increment` or
 To set the values for a digit, just set `sync_state` to whichever digit you want the digit to be, and then trigger animator trigger `sync` using another `VRC_Trigger` attached to a button, somewhere else.
 
 # Credits
-Credit me.
+Credit me, though I don't want you to just go pasting the GNU License into your world.
 
 # Third-party Content
 
