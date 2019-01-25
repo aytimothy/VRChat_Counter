@@ -27,3 +27,7 @@ Credit me, though I don't want you to just go pasting the GNU License into your 
   * Lilita One - Juan Montoreano [(Google Fonts)](https://fonts.google.com/specimen/Lilita+One)
   
 Obviously I never asked for any permission. I just cobbled this together with whatever I had, original or not.
+
+# World Information
+**Current public version:** cba94f1eda2375b575d05db80f54b498bdc47bac  
+**World ID:** [wrld_f4993f0f-389f-4998-9a63-ffbc0cc21c5f](https://vrchat.com/home/launch?worldId=wrld_f4993f0f-389f-4998-9a63-ffbc0cc21c5f)
